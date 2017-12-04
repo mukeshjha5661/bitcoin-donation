@@ -51,4 +51,4 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
-remote_theme: the plain
+remote_theme: The Plain v3.0
