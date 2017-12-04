@@ -13,7 +13,7 @@ twitter_username:   mukeshjha5661 # Your Twitter username here
 github_username:    mukeshjha5661 # Your GitHub username here
 
 # Site Settings
-url:                https://about.me/mukesh_jha # main url
+url:                https://mukeshjha5661.github.io/bitcoin-donation/ # main url
 baseurl:            /bitcoin-donation # for gh-pages
 permalink:          /notes/:title # Post permalink
 timezone:           Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
